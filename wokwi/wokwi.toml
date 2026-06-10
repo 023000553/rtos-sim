@@ -1,4 +1,4 @@
 [wokwi]
 version = 1
-firmware = "../src/wireless-com/tx-mcu/build/tx-mcu.elf"
-elf = "../src/wireless-com/build/tx-mcu.elf"
+firmware = "../src/msg-queue//build/msg-queue.elf"
+elf = "../src/msg-queue/build/msg-queue.elf"
